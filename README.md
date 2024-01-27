@@ -11,11 +11,11 @@ A dedicated and active developer of all things computers, I work with a range of
 > - ![NodeJS](https://img.shields.io/badge/Node%20js-3c873a?style=for-the-badge&logo=nodedotjs&logoColor=white)
 > - ![TypeScript](https://img.shields.io/badge/TypeScript-007acc?style=for-the-badge&logo=TypeScript&logoColor=white)
 > - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
-> - ![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=CSS3&logoColor=white)
-> - ![Firebase](https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=Firebase&logoColor=white)
-> - ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=Git&logoColor=white)
-> - ![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=SQL&logoColor=white)
-> - ![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=PHP&logoColor=white)
+> - ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
+> - ![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=Firebase&logoColor=white)
+> - ![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=Git&logoColor=white)
+> - ![SQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+> - ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white)
 
 ## My Products and Accounts 💻
 
