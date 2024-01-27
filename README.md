@@ -8,7 +8,7 @@ A dedicated and active developer of all things computers, I work with a range of
 
 ## My Programming Languages ✍️
 > - ![Python](https://img.shields.io/badge/Python-4B8BBE?style=for-the-badge&logo=Python&logoColor=white)
-> - ![NodeJS](https://img.shields.io/badge/Nodejs-000000?style=for-the-badge&logo=Nodejs&logoColor=white)
+> - ![NodeJS](https://img.shields.io/badge/Nodejs-3c873a?style=for-the-badge&logo=Nodejs&logoColor=white)
 > - ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=TypeScript&logoColor=white)
 > - ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=HTML5&logoColor=white)
 > - ![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=CSS3&logoColor=white)
