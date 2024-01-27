@@ -6,7 +6,7 @@
 
 A dedicated and active developer of all things computers, I work with a range of languages and take a host of approaches towards my programming. I'm primarily a developer working in Python and NodeJS, but I have a considerable amount of experience working with web development in all its forms, from PHP and SQL🐬 to HTML and CSS, even working the backend with NGINX and Apache🪶. Professional experience is something I am yet to increase upon, but despite this, I work tirelessly on a range of my own digital services.
 
-## My Programming Languages ✍️
+## My Development Stack ✍️
 > - ![Python](https://img.shields.io/badge/Python-4B8BBE?style=for-the-badge&logo=Python&logoColor=white)
 > - ![NodeJS](https://img.shields.io/badge/Node%20js-3c873a?style=for-the-badge&logo=nodedotjs&logoColor=white)
 > - ![TypeScript](https://img.shields.io/badge/TypeScript-007acc?style=for-the-badge&logo=TypeScript&logoColor=white)
@@ -16,6 +16,8 @@ A dedicated and active developer of all things computers, I work with a range of
 > - ![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=Git&logoColor=white)
 > - ![SQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 > - ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white)
+> - ![NGINX](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+> - ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white)
 
 ## My Products and Accounts 💻
 
