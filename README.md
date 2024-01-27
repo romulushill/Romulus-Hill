@@ -21,4 +21,6 @@ A dedicated and active developer of all things computers, I work with a range of
 - <a href="https://romulushill.co.uk/">Personal Site</a>
 - <a href="https://robottik.com/">Robottik Software</a>
 - <a href="https://verefa.com/">Verefa</a>
-- <a href="https://www.linkedin.com/in/romulushill/">![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)</a>
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="romulushill" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://uk.linkedin.com/in/romulushill?trk=profile-badge">Romulus Hill</a></div>
+              
