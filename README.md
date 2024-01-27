@@ -7,7 +7,7 @@
 A dedicated and active developer of all things computers, I work with a range of languages and take a host of approaches towards my programming. I'm primarily a developer working in Python and NodeJS, but I have a considerable amount of experience working with web development in all its forms, from PHP and SQL🐬 to HTML and CSS, even working the backend with NGINX and Apache🪶. Professional experience is something I am yet to increase upon, but despite this, I work tirelessly on a range of my own digital services.
 
 ## My Programming Languages ✍️
-> - ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Python&logoColor=white)
+> - ![Python](https://img.shields.io/badge/Python-4B8BBE?style=for-the-badge&logo=Python&logoColor=white)
 > - ![NodeJS](https://img.shields.io/badge/Nodejs-000000?style=for-the-badge&logo=Nodejs&logoColor=white)
 > - ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=TypeScript&logoColor=white)
 > - ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=HTML5&logoColor=white)
